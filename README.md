@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/meghanadh516/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/meghanadh516/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
