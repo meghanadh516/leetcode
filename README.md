@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/meghanadh516/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/meghanadh516/leetcode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/meghanadh516/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/meghanadh516/leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/meghanadh516/leetcode/tree/master/0832-flipping-an-image) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/meghanadh516/leetcode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/meghanadh516/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
