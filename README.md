@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghanadh516/leetcode/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
@@ -60,7 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/meghanadh516/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/meghanadh516/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
