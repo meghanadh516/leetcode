@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/meghanadh516/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/meghanadh516/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/meghanadh516/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/meghanadh516/leetcode/tree/master/0046-permutations) |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/meghanadh516/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/meghanadh516/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/meghanadh516/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/meghanadh516/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/meghanadh516/leetcode/tree/master/0046-permutations) |
@@ -96,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/meghanadh516/leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
