@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/meghanadh516/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
@@ -53,5 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
 | [0832-flipping-an-image](https://github.com/meghanadh516/leetcode/tree/master/0832-flipping-an-image) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
