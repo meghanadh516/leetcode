@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/meghanadh516/leetcode/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
@@ -83,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/meghanadh516/leetcode/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/meghanadh516/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
