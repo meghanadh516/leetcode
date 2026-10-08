@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/meghanadh516/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/meghanadh516/leetcode/tree/master/0133-clone-graph) |
 ## Matrix
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/meghanadh516/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/meghanadh516/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/meghanadh516/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanadh516/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/meghanadh516/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/meghanadh516/leetcode/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/meghanadh516/leetcode/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/meghanadh516/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
