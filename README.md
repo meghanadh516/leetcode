@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/meghanadh516/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/meghanadh516/leetcode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/meghanadh516/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/meghanadh516/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/meghanadh516/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/meghanadh516/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
 | [0566-reshape-the-matrix](https://github.com/meghanadh516/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/meghanadh516/leetcode/tree/master/0661-image-smoother) |
@@ -56,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/meghanadh516/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/meghanadh516/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/meghanadh516/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/meghanadh516/leetcode/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/meghanadh516/leetcode/tree/master/0212-word-search-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/meghanadh516/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
